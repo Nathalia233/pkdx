@@ -1,5 +1,8 @@
 # Pkdx2Nat
 
+Para rodar o projeto entrar na pasta cd/pkdx2-nat-master
+Usar o comando inicial npm install
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.0.3.
 
 ## Development server
